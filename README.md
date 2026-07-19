@@ -19,7 +19,7 @@ I'm a software engineer and founder building **WAYYSTAR Technologies** — a sof
 ## 🌍 Flagship project — Agrovio
 **[Agrovio](https://agrovio.online)** is an agricultural marketplace connecting Zimbabwean farmers with the markets that need them — a five-role marketplace (Farmer, Buyer, Agribusiness, Input Supplier, Transporter).
 - 💻 Use it on **PC & iPhone** at **[agrovio.online](https://agrovio.online)** · 📱 Android app in Google Play closed testing
-- 📄 Case study → [wayystar-technologies.vercel.app/work/agrovio](https://wayystartechnologies.online/work/agrovio)
+- 📄 Case study → [https://wayystartechnologies.online/work/agrovio](https://wayystartechnologies.online/work/agrovio)
 
 ## 🛠️ Tech I work with
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Node.js`
