@@ -25,8 +25,8 @@ I'm a software engineer and founder building **WAYYSTAR Technologies** — a sof
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `PostgreSQL` · `Node.js`
 
 ## 📫 Connect
-- 🌐 Website: https://wayystar-technologies.vercel.app
-- 👤 About me: https://wayystar-technologies.vercel.app/founder
+- 🌐 Website: https://wayystartechnologies.online
+- 👤 About me: https://wayystartechnologies.online/founder
 - 💼 LinkedIn: https://www.linkedin.com/in/anotidaishe-wellington-madzingautswa-81a88a3b5
 - ✉️ Email: admin@agrovio.online
 
